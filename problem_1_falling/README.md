@@ -38,6 +38,8 @@ python test_agent.py -a demo_agent+DemoAgent
 
 The proposed solution is an agent trained using Deep Q Learning (based on this paper: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf and this tutorial: https://medium.freecodecamp.org/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8)
 
+The trained model should be downloaded from: https://drive.google.com/open?id=1ujxv0vSll30n0_QQlH-8rmLTOyWOLFHj and saved to models/
+
 ## Results
 
 ### The DQN agent has been tested with different environment configurations (the names are quite self-descriptive). The average score for multiple runs are:

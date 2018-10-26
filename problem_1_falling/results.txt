@@ -1,0 +1,92 @@
+Trained DQN Agent results on 10 runs with different configurations:
+
+bigger_agent.yaml
+Testing agent DQNAgent Reward for 10000 steps: -887
+Testing agent DQNAgent Reward for 10000 steps: -786
+Testing agent DQNAgent Reward for 10000 steps: -778
+Testing agent DQNAgent Reward for 10000 steps: -801
+Testing agent DQNAgent Reward for 10000 steps: -943
+Testing agent DQNAgent Reward for 10000 steps: -1065
+Testing agent DQNAgent Reward for 10000 steps: -1026
+Testing agent DQNAgent Reward for 10000 steps: -867
+Testing agent DQNAgent Reward for 10000 steps: -1164
+Testing agent DQNAgent Reward for 10000 steps: -883
+default.yaml
+Testing agent DQNAgent Reward for 10000 steps: -320
+Testing agent DQNAgent Reward for 10000 steps: -364
+Testing agent DQNAgent Reward for 10000 steps: -198
+Testing agent DQNAgent Reward for 10000 steps: -305
+Testing agent DQNAgent Reward for 10000 steps: -358
+Testing agent DQNAgent Reward for 10000 steps: -298
+Testing agent DQNAgent Reward for 10000 steps: -333
+Testing agent DQNAgent Reward for 10000 steps: -307
+Testing agent DQNAgent Reward for 10000 steps: -311
+Testing agent DQNAgent Reward for 10000 steps: -247
+new_obstacle.yaml
+Testing agent DQNAgent Reward for 10000 steps: -232
+Testing agent DQNAgent Reward for 10000 steps: -264
+Testing agent DQNAgent Reward for 10000 steps: -265
+Testing agent DQNAgent Reward for 10000 steps: -252
+Testing agent DQNAgent Reward for 10000 steps: -274
+Testing agent DQNAgent Reward for 10000 steps: -234
+Testing agent DQNAgent Reward for 10000 steps: -300
+Testing agent DQNAgent Reward for 10000 steps: -229
+Testing agent DQNAgent Reward for 10000 steps: -274
+Testing agent DQNAgent Reward for 10000 steps: -231
+speedy.yaml
+Testing agent DQNAgent Reward for 10000 steps: -394
+Testing agent DQNAgent Reward for 10000 steps: -301
+Testing agent DQNAgent Reward for 10000 steps: -313
+Testing agent DQNAgent Reward for 10000 steps: -340
+Testing agent DQNAgent Reward for 10000 steps: -342
+Testing agent DQNAgent Reward for 10000 steps: -325
+Testing agent DQNAgent Reward for 10000 steps: -256
+Testing agent DQNAgent Reward for 10000 steps: -328
+Testing agent DQNAgent Reward for 10000 steps: -307
+Testing agent DQNAgent Reward for 10000 steps: -368
+
+Random agent:
+bigger_agent.yaml
+Testing agent DemoAgent Reward for 10000 steps: -1558
+Testing agent DemoAgent Reward for 10000 steps: -1796
+Testing agent DemoAgent Reward for 10000 steps: -1704
+Testing agent DemoAgent Reward for 10000 steps: -1441
+Testing agent DemoAgent Reward for 10000 steps: -1537
+Testing agent DemoAgent Reward for 10000 steps: -1565
+Testing agent DemoAgent Reward for 10000 steps: -1661
+Testing agent DemoAgent Reward for 10000 steps: -1987
+Testing agent DemoAgent Reward for 10000 steps: -1973
+Testing agent DemoAgent Reward for 10000 steps: -1792
+default.yaml
+Testing agent DemoAgent Reward for 10000 steps: -927
+Testing agent DemoAgent Reward for 10000 steps: -973
+Testing agent DemoAgent Reward for 10000 steps: -727
+Testing agent DemoAgent Reward for 10000 steps: -1140
+Testing agent DemoAgent Reward for 10000 steps: -1029
+Testing agent DemoAgent Reward for 10000 steps: -883
+Testing agent DemoAgent Reward for 10000 steps: -1033
+Testing agent DemoAgent Reward for 10000 steps: -825
+Testing agent DemoAgent Reward for 10000 steps: -862
+Testing agent DemoAgent Reward for 10000 steps: -749
+new_obstacle.yaml
+Testing agent DemoAgent Reward for 10000 steps: -976
+Testing agent DemoAgent Reward for 10000 steps: -919
+Testing agent DemoAgent Reward for 10000 steps: -972
+Testing agent DemoAgent Reward for 10000 steps: -1332
+Testing agent DemoAgent Reward for 10000 steps: -981
+Testing agent DemoAgent Reward for 10000 steps: -983
+Testing agent DemoAgent Reward for 10000 steps: -879
+Testing agent DemoAgent Reward for 10000 steps: -885
+Testing agent DemoAgent Reward for 10000 steps: -942
+Testing agent DemoAgent Reward for 10000 steps: -1002
+speedy.yaml
+Testing agent DemoAgent Reward for 10000 steps: -967
+Testing agent DemoAgent Reward for 10000 steps: -786
+Testing agent DemoAgent Reward for 10000 steps: -1191
+Testing agent DemoAgent Reward for 10000 steps: -797
+Testing agent DemoAgent Reward for 10000 steps: -888
+Testing agent DemoAgent Reward for 10000 steps: -1073
+Testing agent DemoAgent Reward for 10000 steps: -749
+Testing agent DemoAgent Reward for 10000 steps: -760
+Testing agent DemoAgent Reward for 10000 steps: -874
+Testing agent DemoAgent Reward for 10000 steps: -977

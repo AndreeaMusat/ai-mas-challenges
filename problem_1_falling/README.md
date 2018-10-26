@@ -33,3 +33,22 @@ Example:
 ```
 python test_agent.py -a demo_agent+DemoAgent
 ```
+
+## Solution
+
+The proposed solution is an agent trained using Deep Q Learning (based on this paper: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf and this tutorial: https://medium.freecodecamp.org/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8)
+
+## Results
+
+The DQN agent has been tested with different environment configurations (the names are quite self-descriptive). The average score for multiple runs are:
+
+Config: bigger_agent, mean score in 10 simulations of 10000 steps: -920.00
+Config: default, mean score in 10 simulations of 10000 steps: -304.10
+Config: new_obstacle, mean score in 10 simulations of 10000 steps: -255.50
+Config: speedy, mean score in 10 simulations of 10000 steps: -327.40
+
+The results of the random agent with the same configurations are:
+Config: bigger_agent, mean score in 10 simulations of 10000 steps: -1701.40
+Config: default, mean score in 10 simulations of 10000 steps: -914.80
+Config: new_obstacle, mean score in 10 simulations of 10000 steps: -987.10
+Config: speedy, mean score in 10 simulations of 10000 steps: -906.20

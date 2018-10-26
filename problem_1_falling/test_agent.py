@@ -27,7 +27,7 @@ if __name__ == "__main__":
 
     env = FallingObjects(cfg)
 
-    agent = test_agent(max(ACTIONS.keys()))
+    agent = test_agent(1 + max(ACTIONS.keys()))
     all_r = 0
     obs = env.reset()
 
